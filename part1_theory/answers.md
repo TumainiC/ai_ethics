@@ -9,3 +9,13 @@ Transparency in AI means being able to see clearly what the model does and havin
 
 Q3: How does GDPR (General Data Protection Regulation) impact AI development in the EU?
 The GDPR clearly states that all collected data must be consetually collected to be used in model training for example. It gives users the right to privacy of their own data and for it to be accesses there has to be conscent for this. This impacts AI development in the sense that companies cannot collect user dtat without their concent and cannot use that data collected unconcentually to train their models. This may slow down development due to lack of enough data or if data is unlawfully collected, the company pays billions in fines such as in the GDPR 
+
+## 2. Ethical Principles Matching
+
+**A) Justice** - Fair distribution of AI benefits and risks.
+
+**B) Non-maleficence** - Ensuring AI does not harm individuals or society.
+
+**C) Autonomy** - Respecting users' right to control their data and decisions.
+
+**D) Sustainability** - Designing AI to be environmentally friendly.
